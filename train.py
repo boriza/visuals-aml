@@ -9,3 +9,4 @@ plt.title('Foo vs Bar')
 plt.plot(Foo, label='Foo')
 plt.plot(Bar, '-r', label='Bar')
 run.log_image('Plot', plot= plt)
+#test
